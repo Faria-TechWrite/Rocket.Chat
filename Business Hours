@@ -1,0 +1,41 @@
+# Business Hours
+
+The feature turns on omnichannel toggle for the set business hours automatically and you will be able to receive omnichannel conversations. The toggle will be turned off during off hours. The enterprise workspaces have an option to setup multiple business hours according to different time zones and their business needs. Community workspaces can only setup one set of business hours.
+
+To access **Business**** Hours** settings:
+
+1. Goto the dots menu and hit **Omnichannel**. Omnichannel settings will open up.
+
+![](RackMultipart20200911-4-1opxutp_html_ccf615a1a0c0aca.png)
+
+1. Hit **Business**** Hours.**
+
+![](RackMultipart20200911-4-1opxutp_html_7fb87abf1042e9b0.png)
+
+To Add a new set of hours to your workspace:
+
+1. Click the add button.
+
+![](RackMultipart20200911-4-1opxutp_html_6f016df732899c92.png)
+
+1. Name your new set of hours and select the department you are setting your business hours for.
+
+![](RackMultipart20200911-4-1opxutp_html_14cf7faf86304ba1.png)
+
+1. Select your timezone.
+
+![](RackMultipart20200911-4-1opxutp_html_924c8dcb16896c31.png)
+
+1. Select open days of the week and business hours for each day.
+
+![](RackMultipart20200911-4-1opxutp_html_68a8792b0b84b032.png)
+
+Note that if you as an agent are in a conversation with a customer and you have reached the closing hour, you&#39;ll still be able to finish the last conversation. After you have closed this conversation, omnichannel toggle will be set to off automatically.
+
+1. Hit **Save.**
+
+![](RackMultipart20200911-4-1opxutp_html_8140b508c9147a0c.png)
+
+Your new set of **Business**** Hours** are saved, as shown below:
+
+![](RackMultipart20200911-4-1opxutp_html_147877f87c7d9f40.png)
